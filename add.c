@@ -6,3 +6,4 @@ void main(){
 	add=a+b;
 	printf("sum of a,b=%d",add);
 }
+// add function
